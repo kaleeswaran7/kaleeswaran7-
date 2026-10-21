@@ -21,7 +21,7 @@ Analyzed e-commerce customer data to explore spending patterns, customer satisfa
 
 **Tools:** Excel | SQL | Python | Power BI
 
-[View Project Repository](YOUR_PROJECT_REPOSITORY_LINK)
+[View Project Repository](https://github.com/kaleeswaran7/Customer_behaviour_Analysis)
 
 ## Connect With Me
 - LinkedIn: YOUR_LINKEDIN_PROFILE_LINK
