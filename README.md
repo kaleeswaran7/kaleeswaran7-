@@ -24,5 +24,7 @@ Analyzed e-commerce customer data to explore spending patterns, customer satisfa
 [View Project Repository](https://github.com/kaleeswaran7/Customer_behaviour_Analysis)
 
 ## Connect With Me
-- LinkedIn: YOUR_LINKEDIN_PROFILE_LINK
-- GitHub: YOUR_GITHUB_PROFILE_LINK
+- LinkedIn: www.linkedin.com/in/kaleeswaran-j-3aa1b1371
+
+
+- GitHub: https://github.com/kaleeswaran7
